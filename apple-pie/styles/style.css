@@ -1,6 +1,6 @@
 body {
     margin: 0px 0px 0px 0px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family: 'Open Sans', sans-serif;
 }
 
 header {
@@ -25,7 +25,7 @@ header {
 
 .body-message {
     margin: 50px 10%;
-    font-size: 23px;
+    font-size: 37px;
 }
 
 .footer-image img{
@@ -46,4 +46,5 @@ header {
 
 .list {
     list-style-type: none;
+    font-size: 30px;
 }
